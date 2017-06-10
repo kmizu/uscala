@@ -1,4 +1,4 @@
-package com.github.kmizu.json.arith
+package com.github.kmizu.arith
 
 import jdk.nashorn.internal.codegen.CompilerConstants.Call
 

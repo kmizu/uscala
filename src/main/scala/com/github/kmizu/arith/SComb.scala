@@ -1,4 +1,4 @@
-package com.github.kmizu.json.arith
+package com.github.kmizu.arith
 
 abstract class SComb[R] {
   val input: String
